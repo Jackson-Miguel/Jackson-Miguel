@@ -1,6 +1,6 @@
 Olá! Eu sou Jackson Miguel 
 
-💻 **Desenvolvedor em formação | Estudante de Tecnologia**
+ **Desenvolvedor em formação | Estudante de Tecnologia**
 
 Atualmente sou estudande de ADS, formado no ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento de software e estou sempre buscando aprimorar meus conhecimentos por meio de projetos práticos.
 
@@ -10,7 +10,7 @@ Tecnologias e ferramentas
 - Linguagens: JavaScript, TypeScript, C++ e Java.
 - Ferramentas: Git, GitHub e VS Code.
 
-📂 Projetos em destaque
+Projetos em destaque
 
 - Gerenciamento de Estoque: aplicação para cadastro, edição e gerenciamento de produtos.
 - AppBank: sistema bancário com operações de depósito, saque e consulta de extrato.
